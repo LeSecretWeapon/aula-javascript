@@ -1,2 +1,4 @@
 # aula-javascript
-Introdução ao JavaScript
+
+Site criado para aprender, praticar e usar os conceitos básicos de JavaScript e DOM.
+
